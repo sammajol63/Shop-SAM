@@ -1,9 +1,13 @@
 # Shop-SAM
 
 Aplikasi Toko Online sederhana yang dibangun menggunakan Fornt-end Library Javascript ReactJS menggunakan state managemen reduxtoolkit dan di Back-end nya menggunakan frameworks ExpressJS.
+
 Fitur Admin side:
+
 -admin bisa login dan lupa password (link lupa passwordnya di kirim ke email menggunakan nodemailer).
+
 -admin bisa mengelola data Product seperti menambahkan product dan foto product di simpan di cloudinary menggunakan multer upload.
+
 -admin bisa mengelola data User (CRUD).
 
 Fitur Client side:
